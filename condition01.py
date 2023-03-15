@@ -1,8 +1,9 @@
-number = input("정수를 입려하세요!: ")
+number = input("정수를 입력하세요!: ")
 if number.isdigit:
     last_charater = number[-1]
 else:
     print("정수를 입력하세요.")
+    exit()
 
 last_number = int(last_charater)
 
