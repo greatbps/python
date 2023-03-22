@@ -1,0 +1,3 @@
+Hello file writeWith open file write
+ With open file write
+With open file write
